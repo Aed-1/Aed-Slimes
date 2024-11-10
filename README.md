@@ -1,12 +1,14 @@
 # Aed-Slimes
 My design of PCB and case for NRF slime trackers 
-
-#Ordering PCB'S
 ![image](https://github.com/user-attachments/assets/a8214c0e-b0c2-4734-bced-8f14698762c0)
+
+
+# Ordering PCB
 
 download the Aed_Slime_Gerber.zip file from the PCB folder on this repo
 
 go to https://jlcpcb.com and follow the steps shown below
+
 ![image](https://github.com/user-attachments/assets/da5ba7ce-9062-42f9-9c0e-eb114254c943)
 ![image](https://github.com/user-attachments/assets/ceb41bb1-f61c-43fd-aea5-fd970abdbd00)
 ![image](https://github.com/user-attachments/assets/aed3eea8-19f6-40ea-b97f-e0caf3df63f8)
