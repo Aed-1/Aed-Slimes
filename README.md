@@ -3,6 +3,7 @@ My design of PCB and case for NRF slime trackers
 ![20241123_214346](https://github.com/user-attachments/assets/708f6ef8-cd18-47c9-825b-2c562208999a)
 ![20241123_214303](https://github.com/user-attachments/assets/8460e52c-1b9e-4b58-a8f8-70a5f3bf03ce)
 
+![Fusion360_C9sX65qt6Q](https://github.com/user-attachments/assets/5c8d1222-c1eb-4f2e-8a42-11a9422d3dac)
 
 ![image](https://github.com/user-attachments/assets/a8214c0e-b0c2-4734-bced-8f14698762c0)
 ![image](https://github.com/user-attachments/assets/1ea32cd5-dd67-4dcc-884d-8e459584aa33)
