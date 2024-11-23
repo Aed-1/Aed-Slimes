@@ -1,5 +1,7 @@
 # Aed-Slimes
 My design of PCB and case for NRF slime trackers 
+https://cdn.discordapp.com/attachments/855164207615705118/1310000498622861472/20241123_214346.jpg?ex=6743a089&is=67424f09&hm=f894b2d3ed68f34896eda4bf691918cb59ae577ccae9f74c6cfc4c41842cca21&
+
 ![image](https://github.com/user-attachments/assets/a8214c0e-b0c2-4734-bced-8f14698762c0)
 ![image](https://github.com/user-attachments/assets/1ea32cd5-dd67-4dcc-884d-8e459584aa33)
 
@@ -42,5 +44,5 @@ step 8
 ![image](https://github.com/user-attachments/assets/e3b38478-d046-4fcd-b2c1-c64a7df9fa44)
 
 
-
+# Parts List
 
