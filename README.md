@@ -49,3 +49,8 @@ step 8
 
 # Parts List
 
+# Building Trackers
+
+# Flashing Tracker Firmware
+
+# Flashing Dongle Firmware
