@@ -49,6 +49,29 @@ step 8
 
 # Parts List
 
+- SuperMini NRF52840 (https://www.aliexpress.com/item/1005007738886550.html?spm=a2g0o.order_list.order_list_main.11.53071802maORE3)
+  
+- IMU of your choice (refer to https://docs.slimevr.dev/diy/imu-comparison.html)
+  
+- my PCB
+  
+- male 2.54mm header pins (https://www.aliexpress.com/item/1005005990753794.html?spm=a2g0o.order_list.order_list_main.84.53071802maORE3)
+  
+- LIR2450 coin battery (www.amazon.co.uk/N20-Rechargeable-Battery-LIR2450-Lithium/dp/B093141K7D)
+  
+- LIR2450 coin battery holder (https://www.aliexpress.com/item/32809235496.html?spm=a2g0o.order_list.order_list_main.17.53071802maORE3)
+  
+- 3d printed shit
+  
+- ebyte dongle (https://www.aliexpress.com/item/1005004262523219.html?spm=a2g0o.order_list.order_list_main.5.53071802maORE3) (MAKE SURE TO SELECT THE E104-BT5040U OPTION)
+  
+- push buttons (https://www.aliexpress.com/item/32882161197.html?spm=a2g0o.order_list.order_list_main.34.53071802maORE3) (you can get either color it doesnt matter)
+  
+- straps (https://shop.slimevr.dev/products/official-slimevr-straps-v2) (buy according to the amount of trackers you have)
+  
+- you also need basic soldering gear and cutters
+
+  
 # Building Trackers
 
 # Flashing Tracker Firmware
