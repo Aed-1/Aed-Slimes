@@ -63,7 +63,7 @@ step 8
   
 - 3d printed shit
   
-- ebyte dongle (https://www.aliexpress.com/item/1005004262523219.html?spm=a2g0o.order_list.order_list_main.5.53071802maORE3) (MAKE SURE TO SELECT THE E104-BT5040U OPTION) __this is currently not avaliable on ali express, check the docs for extra information https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic
+- ebyte dongle (https://www.aliexpress.com/item/1005004262523219.html?spm=a2g0o.order_list.order_list_main.5.53071802maORE3) (MAKE SURE TO SELECT THE E104-BT5040U OPTION) __this is currently not avaliable on ali express, check the docs for extra information__ (https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic)
   
 - push buttons (https://www.aliexpress.com/item/32882161197.html?spm=a2g0o.order_list.order_list_main.34.53071802maORE3) (you can get either color it doesnt matter)
   
@@ -91,14 +91,25 @@ __MAKE SURE EVERYTHING EXCEPT THE BATTERY HOLDER IS SOLDERED ON THE SIDE WITH TH
  
 5. put battery in the battery holder and put the tracker into the case (might be a tight fit depending on which printer you used and its tolerences, just push on it and dont worry about the tracker snapping. you probably couldnt snap it if you tried.)
     
+# Updating Bootloader
+___YOU WILL NEED TO DO THIS BEFORE UPLOADING FIRMWARE ON TRACKERS OTHERWISE YOU RISK BRICKING YOUR TRACKERS___
+
+follow the guide below on all of your trackers:
+https://docs.slimevr.dev/diy/smol-slime.html#updating-adafruit-bootloader-supermini--xiao
 
 # Flashing Tracker Firmware
 
-__COMING SOON__
+Follow this guide on uploading firmware to your trackers, only difference is that you need to make sure you upload the "Zephyr.uf2" file in the Firmware folder in this github repo instead of the one mentioned in the guide:
+https://docs.slimevr.dev/diy/smol-slime.html#supermini-and-other-devices-with-adafruit-bootloader-as-receivertracker
 
 # Flashing Dongle Firmware
 
-__COMING SOON__
+Now you can follow this guide below to upload the firmware for your dongle, only difference is to use the "Zephyr.hex" file in the Firmware folder in this github repo instead of the one mentioned in the guide:
+https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic
+
+# What next?
+
+
 
 # FAQ (Frequently asked questions)
 
