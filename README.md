@@ -78,6 +78,7 @@ for right now there is no image/video guide so you will have to make do with tex
 
 
 __IF YOU DO NOT FOLLOW THIS ORDER OF INSTRUCTIONS THE PARTS WILL NOT FIT!!!!__
+
 __MAKE SURE EVERYTHING EXCEPT THE BATTERY HOLDER IS SOLDERED ON THE SIDE WITH THE LOGO AND NAME OTHERWISE THE PINS WILL BE BACKWARDS AND THE TRACKER WONT WORK (i know this is obvious but it is something alot of people forget)__
 
 1. Solder buttons onto the PCB, it is a very tight fit and you may need to bend the pins a little in order for them to go in properly, they may also be tilted a little after they go in which is fine as long as they are soldered in
