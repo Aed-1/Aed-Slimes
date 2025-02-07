@@ -67,7 +67,7 @@ step 8
   
 - push buttons (https://www.aliexpress.com/item/32882161197.html?spm=a2g0o.order_list.order_list_main.34.53071802maORE3) (you can get either color it doesnt matter)
   
-- straps (https://shop.slimevr.dev/products/official-slimevr-straps-v2) (buy according to the amount of trackers you have)
+- straps (https://shop.slimevr.dev/products/official-slimevr-straps-v2) (or any other 35mm wide strap) (buy according to the amount of trackers you have)
   
 - you also need basic soldering gear and cutters
 
