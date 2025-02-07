@@ -63,7 +63,7 @@ step 8
   
 - 3d printed shit
   
-- ebyte dongle (https://www.aliexpress.com/item/1005004262523219.html?spm=a2g0o.order_list.order_list_main.5.53071802maORE3) (MAKE SURE TO SELECT THE E104-BT5040U OPTION)
+- ebyte dongle (https://www.aliexpress.com/item/1005004262523219.html?spm=a2g0o.order_list.order_list_main.5.53071802maORE3) (MAKE SURE TO SELECT THE E104-BT5040U OPTION) __this is currently not avaliable on ali express, check the docs for extra information https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic
   
 - push buttons (https://www.aliexpress.com/item/32882161197.html?spm=a2g0o.order_list.order_list_main.34.53071802maORE3) (you can get either color it doesnt matter)
   
@@ -102,7 +102,9 @@ __COMING SOON__
 
 # FAQ (Frequently asked questions)
 
-__COMING SOON__
+Q: "what IMUs can i use?"
+
+A: currently there are 3 main IMUs you can choose from, for a low budget you can use LSM6DSR (https://store.kouno.xyz/products/lsm6dsr-ist8306-module), and if you have a high budget you can either get the ICM-45686 (https://store.kouno.xyz/products/icm-45686-ist8306-module) or the LSM6DSV (https://moffshop.deyta.de/products/lsm6dsv-module)
 
 # Extra informatiom
 
