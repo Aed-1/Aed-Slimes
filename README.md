@@ -99,7 +99,7 @@ __COMING SOON__
 
 __COMING SOON__
 
-#FAQ (Frequently asked questions)
+# FAQ (Frequently asked questions)
 
 __COMING SOON__
 
