@@ -125,6 +125,8 @@ A: currently there are 3 main IMUs you can choose from, for a low budget you can
 
 # Extra informatiom
 
+SW0 is set to pin 31, this info is useful if you decide to mess around with the firmware and build it yourself
+
 CASE DIMENSIONS: 35.20x37.04x19
 
 STRAP LOOP DESIGNED BY PIXEL (pixel_lily on discord)
