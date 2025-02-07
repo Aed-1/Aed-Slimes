@@ -109,7 +109,7 @@ https://docs.slimevr.dev/diy/smol-slime.html#supermini-and-other-devices-with-ad
 
 # Flashing Dongle Firmware
 
-Now you can follow this guide below to upload the firmware for your dongle, only difference is to use the "Zephyr.hex" file in the Firmware folder in this github repo instead of the one mentioned in the guide:
+Now you can follow this guide below to upload the firmware for your dongle, you can use the "Zephyr.hex" file in the Firmware folder in this github repo instead of the one mentioned in the guide:
 https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic
 
 # What next?
