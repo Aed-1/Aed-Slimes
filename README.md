@@ -77,3 +77,11 @@ step 8
 # Flashing Tracker Firmware
 
 # Flashing Dongle Firmware
+
+# EXTRA INFORMATION
+
+CASE DIMENSIONS: 35.20x37.04x19
+
+STRAP LOOP DESIGNED BY PIXEL (pixel_lily on discord)
+
+
