@@ -90,7 +90,12 @@ __MAKE SURE EVERYTHING EXCEPT THE BATTERY HOLDER IS SOLDERED ON THE SIDE WITH TH
 4. now solder the supermini and IMU onto the board making sure the USB-C port is on the side with the silkscreen of it (some components near the pins at the top of the supermini are very small so be careful not to accidentally bridge them)
  
 5. put battery in the battery holder and put the tracker into the case (might be a tight fit depending on which printer you used and its tolerences, just push on it and dont worry about the tracker snapping. you probably couldnt snap it if you tried.)
-    
+
+# prerequisite for firmware flashing
+
+you will need to download the nRF Connect for desktop app as well as all the modules for it listed on this section of the docs:
+https://docs.slimevr.dev/diy/smol-slime.html#software
+
 # Updating Bootloader
 ___YOU WILL NEED TO DO THIS BEFORE UPLOADING FIRMWARE ON TRACKERS OTHERWISE YOU RISK BRICKING YOUR TRACKERS___
 
@@ -109,7 +114,8 @@ https://docs.slimevr.dev/diy/smol-slime.html#dongles-ebytenordic
 
 # What next?
 
-
+Now you will need to follow the slimevr docs listed below in order to pair your trackers to your reciever as well as calibrate them:
+https://docs.slimevr.dev/diy/smol-slime.html#pairing-mode
 
 # FAQ (Frequently asked questions)
 
