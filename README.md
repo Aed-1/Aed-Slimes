@@ -74,11 +74,36 @@ step 8
   
 # Building Trackers
 
+for right now there is no image/video guide so you will have to make do with text for now, sorry D:
+
+
+__IF YOU DO NOT FOLLOW THIS ORDER OF INSTRUCTIONS THE PARTS WILL NOT FIT!!!!__
+__MAKE SURE EVERYTHING EXCEPT THE BATTERY HOLDER IS SOLDERED ON THE SIDE WITH THE LOGO AND NAME OTHERWISE THE PINS WILL BE BACKWARDS AND THE TRACKER WONT WORK (i know this is obvious but it is something alot of people forget)__
+
+1. Solder buttons onto the PCB, it is a very tight fit and you may need to bend the pins a little in order for them to go in properly, they may also be tilted a little after they go in which is fine as long as they are soldered in
+ 
+2. Solder pin headers onto the PCB in whichever order you like
+
+3. solder battery header on the PCB __make sure the battery isnt in until after you are done building to prevent accidental shorts__
+ 
+4. now solder the supermini and IMU onto the board making sure the USB-C port is on the side with the silkscreen of it (some components near the pins at the top of the supermini are very small so be careful not to accidentally bridge them)
+ 
+5. put battery in the battery holder and put the tracker into the case (might be a tight fit depending on which printer you used and its tolerences, just push on it and dont worry about the tracker snapping. you probably couldnt snap it if you tried.)
+    
+
 # Flashing Tracker Firmware
+
+__COMING SOON__
 
 # Flashing Dongle Firmware
 
-# EXTRA INFORMATION
+__COMING SOON__
+
+#FAQ (Frequently asked questions)
+
+__COMING SOON__
+
+# Extra informatiom
 
 CASE DIMENSIONS: 35.20x37.04x19
 
