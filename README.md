@@ -61,31 +61,37 @@ step 8
   
 - male 2.54mm header pins (https://www.aliexpress.com/item/1005005990753794.html?spm=a2g0o.order_list.order_list_main.84.53071802maORE3)
   
-- LIR2450 coin battery (EEMB version on amazon with welded pins)
+- LIR2450 coin battery (For V1.2 use battery with welded pins, i recommend the ones on amazon by EEMB. For V1.1 use any LIR2450 battery, just make sure its not LIR2450-H)
+
+- For V1.1 only: case holder for battery (https://www.aliexpress.com/item/32809235496.html?spm=a2g0o.order_list.order_list_main.57.a29b1802v9RgP)
   
 - 3d printed cases and strap hooks
   
-- holyIOT Dongle (can be found on aliexpress)
+- holyIOT Dongle (can be found on aliexpress, not linking seller due to them chaning all the time)
   
 - push buttons (https://www.aliexpress.com/item/32882161197.html?spm=a2g0o.order_list.order_list_main.34.53071802maORE3) (you can get either color it doesnt matter)
   
 - straps (https://shop.slimevr.dev/products/official-slimevr-straps-v2) (or any other 35mm wide strap) (buy according to the amount of trackers you have)
   
-- you also need basic soldering gear, kapton tape and flush cutters
+- basic soldering gear, kapton tape and flush cutters
 
   
 # Building Trackers
 
 for right now there is no image/video guide so you will have to make do with text for now, sorry D:
 
-
 __IF YOU DO NOT FOLLOW THIS ORDER OF INSTRUCTIONS THE PARTS MIGHT NOT FIT!!!!__
 
 __MAKE SURE EVERYTHING EXCEPT THE BATTERY IS SOLDERED ON THE SIDE WITH THE LOGO OTHERWISE THE PINS WILL BE BACKWARDS AND THE TRACKER WONT WORK__
 
+First up, you need to decide between V1.1 and V1.2 of this tracker. the difference is that V1.2 has a soldered battery, whereas V1.1 uses a battery holder. This means that V1.1 allows you to replace the battery if you find your current one is bad, at the cost of it being roughly 5mm taller, which doesnt sound like much, but at sizes like these it is alot.
+
+For the V1.2 guide, see below. For the V1.1 guide, please look below the V1.2 instructions to see the bold text saying "V1.1 GUIDE!"
+
+__V1.2 GUIDE!__
 1. Solder buttons onto the PCB, it is a very tight fit and dont be afraid to bend the pins a little bit, if they snap off you always have replacements as these buttons usually come in packs of 50/100
  
-2. Solder pin headers onto the PCB in whichever order you like
+2. Solder pin headers onto the PCB
 
 3. cut the pins on the underside of the pcb to make room for the battery
 
@@ -96,6 +102,28 @@ __MAKE SURE EVERYTHING EXCEPT THE BATTERY IS SOLDERED ON THE SIDE WITH THE LOGO 
 6. solder battery on the PCB making sure the positive and negative terminals match accordingly
  
 7. Finally, put the tracker into the case (might be a tight fit depending on which printer you used and its tolerences, just push on it and dont worry about the tracker snapping. you probably couldnt snap it if you tried.)
+
+
+
+
+
+
+__V1.1 GUIDE!__
+1. Solder buttons onto the PCB, it is a very tight fit and dont be afraid to bend the pins a little bit, if they snap off you always have replacements as these buttons usually come in packs of 50/100
+ 
+2. Solder pin headers onto the PCB
+
+3. you can cut the bottom of the pin headers for the battery holder, just make sure the battery holder will actually benifit from this though, most of them have pins that get wider at some point to leave an intentional gap in the pcb and holder
+
+4. Solder the battery holder on
+ 
+5. now solder the supermini and IMU onto the board making sure the USB-C port is on the side with the silkscreen of it (some components near the pins at the top of the supermini are very small so be careful not to accidentally bridge / knock them)
+
+7. Finally, put the tracker into the case (might be a tight fit depending on which printer you used and its tolerences, just push on it and dont worry about the tracker snapping. you probably couldnt snap it if you tried.)
+
+
+
+
 
 
 # prerequisite for firmware flashing
